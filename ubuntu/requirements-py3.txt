@@ -1,0 +1,14 @@
+scikit-learn
+sklearn-pandas==1.7.0
+requests>=2.18.4
+pyspark==2.3.0
+keras==2.2.0
+h5py==2.7.0
+opencv-python==3.4.4.19
+imutils==0.5.2
+matplotlib==2.1.0
+pandas==0.24.2
+jupyter
+BigDL==0.7.0
+tensorflow==1.15.0
+tensorflow_datasets
